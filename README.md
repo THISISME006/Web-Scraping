@@ -2,7 +2,7 @@
 Hello, world!
 
 Thanks for viewing my project! 
-This is one project of many that was created for the internship evaluation test for Sud Goyal Data Scraping & Data Analytics internship.
+This is one project of many that was created for the internship evaluation test .
 
 
 This project is around web-scrapping for the laptop data from the one of the renowned e-commerce platform Flipkart, i scraped the data of 48 different laptops.
