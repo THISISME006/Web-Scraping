@@ -1,7 +1,7 @@
 ## Web-Scraping
 Hello, world!
 
-Thanks for viewing my project! 
+Thanks for viewing my project!! 
  
 
 This project is around web-scrapping for the laptop data from the one of the renowned e-commerce platform Flipkart, i scraped the data of 48 different laptops.
